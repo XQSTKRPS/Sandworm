@@ -9,7 +9,7 @@ observers. Requests go out as a system Python process — not your browser.
 
 ## Install
 
-1. Double-click **Sandworm.pkg**.
+1. Download most recent version as ZIP in the Releases panel. Double-click **Sandworm.pkg**.
 2. Follow the installer. The app is placed in **/Applications**.
 3. Open **Sandworm** from Applications (or Launchpad).
 
